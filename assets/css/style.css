@@ -1,0 +1,14 @@
+body {
+  background-image: url("../images/white-waves.png");
+
+}
+
+.navbar-brand {
+  font-family: 'Kaushan Script',
+    cursive;
+}
+
+.display-4 {
+  font-family: 'Germania One',
+    cursive;
+}
