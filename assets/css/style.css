@@ -24,11 +24,11 @@ body {
   /* background: #e1dbf5; */
 }
 
-.portfolio {}
-
-.contact {}
-
 .card {
   padding-bottom: 10px;
   margin-bottom: 20px;
+}
+
+.psychic {
+  font-size: 25px;
 }
